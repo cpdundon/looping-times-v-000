@@ -1,5 +1,9 @@
+LOOP_COUNT = 7
+
 def using_times
-	#your code here
+  LOOP_COUNT.times do
+    puts "" 
+  end
 end
 
 
